@@ -1,6 +1,6 @@
 {
   "name": "glaubinix/require-alias",
   "require": {
-      "spryker/kernel": "^3.30.0 as 3.53.0"
+      "spryker/kernel": "^3.30.0"
   }
 }
